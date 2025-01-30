@@ -10,8 +10,4 @@ O objetivo do projeto é praticar e consolidar os conhecimentos em POO, como:
 - Encapsulamento
 - Herança e Polimorfismo (se aplicável)
 
-## Como executar
-
-1. Certifique-se de ter o **Java** instalado na sua máquina.
-2. Compile os arquivos `.java` utilizando o comando:
-   ```bash
+## OBRIGADO POR LER!!
